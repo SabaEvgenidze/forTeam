@@ -1,1 +1,2 @@
-print(hello from person2))
+print("hello fro")
+print("helo from second line")
